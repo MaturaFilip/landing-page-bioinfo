@@ -190,3 +190,12 @@ ul {
     color: #fff;
     background-color: #4e443c;
 }
+
+.foot {
+    background-color: rgb(241, 80, 47);
+    color: #fff;
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+    padding-top: 6px;
+}
