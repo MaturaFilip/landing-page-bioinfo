@@ -104,3 +104,32 @@ ul {
     color: #fff;
     background-color: #4e443c;
 }
+
+/* SOME RANDOM INFORMATION ---------------- */
+
+.container .info img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 7%;
+}
+
+.article h2 {
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.article .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 70px;
+}
+
+.article .text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
