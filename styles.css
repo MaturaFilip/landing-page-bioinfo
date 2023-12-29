@@ -133,3 +133,60 @@ ul {
     font-size: 20px;
     font-weight: 500;
 }
+
+
+/* quote ------------------------- */
+
+.quote {
+    background-color: #a8d5cd;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.quote .quote-text {
+    font-size: 36px;
+    font: light italic;
+}
+
+.quote .quote-author {
+    padding-top: 65px;
+    font-size: 20px;
+}
+
+/* NEWS - UPDATES --------------------------- */
+
+.news {
+    height: 300px;
+    
+}
+
+.news .news-box {
+    display: flex;
+    font-size: 30px;
+    height: 180px;
+    width: 1000px;
+    align-items: center;
+    gap: 120px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    border-radius:2%;
+    background-color: #a8d5cd;
+}
+
+.news button {
+    width: 85px;
+    height: 30px;
+    border-radius: 7%;
+    color: #fff;
+    background-color: rgb(241, 80, 47);
+}
+
+.news button:hover {
+    color: #fff;
+    background-color: #4e443c;
+}
